@@ -1,0 +1,14 @@
+C:\mester\Session03OOP\ConsoleApp1\bin\Debug\net8.0\Assignment_03_oop.exe
+C:\mester\Session03OOP\ConsoleApp1\bin\Debug\net8.0\Assignment_03_oop.deps.json
+C:\mester\Session03OOP\ConsoleApp1\bin\Debug\net8.0\Assignment_03_oop.runtimeconfig.json
+C:\mester\Session03OOP\ConsoleApp1\bin\Debug\net8.0\Assignment_03_oop.dll
+C:\mester\Session03OOP\ConsoleApp1\bin\Debug\net8.0\Assignment_03_oop.pdb
+C:\mester\Session03OOP\ConsoleApp1\obj\Debug\net8.0\Assignment_03_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\mester\Session03OOP\ConsoleApp1\obj\Debug\net8.0\Assignment_03_oop.AssemblyInfoInputs.cache
+C:\mester\Session03OOP\ConsoleApp1\obj\Debug\net8.0\Assignment_03_oop.AssemblyInfo.cs
+C:\mester\Session03OOP\ConsoleApp1\obj\Debug\net8.0\Assignment_03_oop.csproj.CoreCompileInputs.cache
+C:\mester\Session03OOP\ConsoleApp1\obj\Debug\net8.0\Assignment_03_oop.dll
+C:\mester\Session03OOP\ConsoleApp1\obj\Debug\net8.0\refint\Assignment_03_oop.dll
+C:\mester\Session03OOP\ConsoleApp1\obj\Debug\net8.0\Assignment_03_oop.pdb
+C:\mester\Session03OOP\ConsoleApp1\obj\Debug\net8.0\Assignment_03_oop.genruntimeconfig.cache
+C:\mester\Session03OOP\ConsoleApp1\obj\Debug\net8.0\ref\Assignment_03_oop.dll
